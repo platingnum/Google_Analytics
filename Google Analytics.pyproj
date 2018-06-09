@@ -40,6 +40,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="gapyapp - Web Deploy.pubxml" />
+    <Content Include="deploy.cmd">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="web.config" />
     <None Include="gaapp - Web Deploy.pubxml" />
     <Content Include="client_secrets.json">
