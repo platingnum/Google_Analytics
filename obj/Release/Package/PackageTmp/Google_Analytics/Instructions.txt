@@ -1,0 +1,5 @@
+Replace:
+	"\Analytics Upload\webapp.py"
+	"\Analytics Upload\static\stylesheet\main.js"
+
+New Table Code : "Analytics SQL Table.txt"

@@ -1,0 +1,8 @@
+Flask
+azure-mgmt-resource
+azure-mgmt-datalake-store
+azure-datalake-store
+google-api-python-client
+pypyodbc
+pandas
+oauth2client
