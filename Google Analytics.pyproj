@@ -40,6 +40,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="gapyapp - Web Deploy.pubxml" />
+    <Content Include=".skipPythonDeployment">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="deploy.cmd">
       <SubType>Code</SubType>
     </Content>
